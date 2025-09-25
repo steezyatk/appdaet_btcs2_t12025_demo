@@ -1,0 +1,20 @@
+# PyCharm specific files
+.idea/
+*.iml
+*.iws
+
+# Python specific files
+__pycache__/
+*.pyc
+*.pyd
+*.o
+*.so
+venv/
+env/
+.env
+.venv
+pip-selfcheck.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
